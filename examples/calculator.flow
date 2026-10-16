@@ -1,0 +1,6 @@
+Ask for a number and call it first
+Ask for another number and call it second
+
+Set result to first + second
+Show "The answer is:"
+Show result

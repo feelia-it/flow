@@ -1,0 +1,9 @@
+Read /sales.csv
+
+If there are rows where status is "Pending"
+    Create folder /reports if it does not exist
+    Save those rows to /reports/pending.csv
+    Show "Pending report created"
+Otherwise
+    Show "No pending orders found"
+End

@@ -1,0 +1,7 @@
+transaction_id,customer_id,date,amount,currency,payment_method,status
+TXN1001,CUST501,2026-10-01,120.50,USD,Credit Card,Completed
+TXN1002,CUST502,2026-10-02,45.00,USD,PayPal,Pending
+TXN1003,CUST503,2026-10-02,299.99,USD,Credit Card,Failed
+TXN1004,CUST504,2026-10-03,89.00,USD,Debit Card,Completed
+TXN1005,CUST505,2026-10-04,15.75,USD,Apple Pay,Refunded
+TXN1006,CUST502,2026-10-02,45.00,USD,PayPal,Failed

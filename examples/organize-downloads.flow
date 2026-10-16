@@ -1,0 +1,11 @@
+In /downloads
+
+If there is a folder containing any of ["Hello", "Accounts", "Payments"]
+    If /backup does not exist
+        Create folder /backup
+    End
+
+    Move it to /backup
+End
+
+Show "Organization complete"
